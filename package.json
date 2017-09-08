@@ -1,6 +1,6 @@
 {
-  "name": "jeason-eslint-config",
-  "version": "0.1.0",
+  "name": "eslint-config-jeason-base",
+  "version": "0.2.0",
   "description": "ESLint configuration used by Jeaosn",
   "main": "index.js",
   "repository": {
